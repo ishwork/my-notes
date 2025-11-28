@@ -8,3 +8,5 @@ This repository contains several guides and reference documents to help develope
 - **NEXT.JS_IMPORTS.md**: A complete reference guide for all available imports from Next.js modules, especially for the App Router. Useful for developers working with Next.js to understand navigation, data fetching, and component usage.
 
 - **PRETTIER_ESLINT_HUSKY_SETUP_GUIDE.md**: Step-by-step instructions for setting up code quality tools (Prettier, ESLint, Husky) in JavaScript/TypeScript projects. Covers configuration, recommended VS Code extensions, and automation for consistent formatting and linting.
+
+- **JS_HIGHER_ORDER_FUNCTIONS**: A practical guide to JavaScript higher-order functions, including built-in array, object, timer, and utility methods. Features explanations, code examples, and usage of debounce and throttle functions.
